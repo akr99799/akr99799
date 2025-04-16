@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Front-End web developer with 2 years of industry experience building websites and web applications.</p>
+<p align="left">I'm a full-stack developer with 4 years of industry experience building websites and web applications.</p>
 
 ###
 
