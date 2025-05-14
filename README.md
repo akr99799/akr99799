@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/GO-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo" />
   <img width="12" />
 </div>
+
 ###
 
 <h3 align="left">🌐 Socials</h3>
@@ -45,5 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
