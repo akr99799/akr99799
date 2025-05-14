@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋, I'm Ankit Kumar Roshan</h2>
+<h2 align="left">Hi,👋 I'm Ankit Kumar Roshan</h2>
 
 ###
 
