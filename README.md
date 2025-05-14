@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a full-stack developer with 4 years of industry experience building websites and web applications.</p>
+<p align="left">I'm a full-stack developer with 4+ years of industry experience building websites and web applications.</p>
 
 ###
 
@@ -29,13 +29,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img src="https://img.shields.io/badge/JEST-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://img.shields.io/badge/GO-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
 ###
 
 <h3 align="left">🌐 Socials</h3>
